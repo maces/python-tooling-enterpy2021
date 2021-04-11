@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier
+_commit: 1.0.0
+_src_path: gh:https://github.com/maces/copier-python-app.git
+author_email: noreply
+author_name: maces
+package_name: python_tooling_enterpy_2021
+project_description: A simple demo project
+project_name: Python Tooling EnterPy 2021
+python_version: 3.9.4

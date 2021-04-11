@@ -1,0 +1,31 @@
+# https://github.com/github/gitignore
+# IDEs
+.idea
+.vscode
+
+# virtualsenvs
+.venv
+
+# Caches
+__pycache__
+.coverage
+.coverage.*
+.hypothesis/
+.pytest_cache/
+.mypy_cache/
+
+# OSes
+.DS_Store
+Thumbs.db
+.directory
+
+# Configs
+.env
+
+# artifacts
+build/*
+
+# Tools
+*.rej
+
+# Project
